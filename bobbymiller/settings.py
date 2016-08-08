@@ -94,6 +94,7 @@ USE_MODELTRANSLATION = False
 # See https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts
 ALLOWED_HOSTS = []
 
+SECRET_KEY = '#vb1c@q3t0%fkeq7ma(8sa7$y5g(_xf_ra%mpp0a7x!(f%en_e'
 # Local time zone for this installation. Choices can be found here:
 # http://en.wikipedia.org/wiki/List_of_tz_zones_by_name
 # although not all choices may be available on all operating systems.
